@@ -26,7 +26,7 @@ yarn lowcode:start
 yarn lowcode:build
 ```
 
-## 调试
+## 备注
 启动调试
 ```bash
 注意：
