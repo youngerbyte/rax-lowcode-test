@@ -26,6 +26,13 @@ yarn lowcode:start
 yarn lowcode:build
 ```
 
+可能的异常
+```bash
+yarn lowcode:build
+报错@ali/lowcode-rax-renderer
+解决方案：全局搜@ali/lowcode-rax-renderer，将@ali/lowcode-rax-renderer替换成@alilc/lowcode-rax-renderer，大概有5到6个地方需要替换
+```
+
 ## 备注
 启动调试
 ```bash
